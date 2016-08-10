@@ -1,4 +1,3 @@
-layout_spectrum: 0.4457427419256419
 typography_spectrum: 0.8157936034258455
 color:
   brandStrength: 0.6475640202406794
@@ -6,9 +5,11 @@ color:
   saturation: 0.9064285047352314
   rhythmicContrast: 0.8776940472889692
   brandColors:
-    - '#10222B'
-    - '#95AB63'
-    - '#BDD684'
-    - '#E2F0D6'
-    - '#F6FFE0'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+layout_spectrum: 0.4457427419256419
 name: Patrick Rock
+title: Patrick Rock
